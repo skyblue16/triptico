@@ -1,0 +1,65 @@
+.contenedor{
+	width: 900px;/*Los valores se modifican de acuerdo a nuestra pantalla*/
+    height: 600px;
+    position: relative;
+    border: 3px solid black;
+    z-index: -1;
+    top: 20px;
+    left: 30px;
+}
+.caja{
+	width: 100%;/*Los valores se modifican de acuerdo a nuestra pantalla*/
+    height: 10%;
+    position: relative;
+    border: 3px solid black;
+    bottom: 0.5%;
+    right: 0.3%;
+    background: #f9a91a;
+}
+.caja2{
+	width: 100%;/*Los valores se modifican de acuerdo a nuestra pantalla*/
+    height: 10%;
+    position: relative;
+    border: 3px solid black;
+    top: 78.5%;
+    right: 0.3%;
+    background: #f9a91a;
+
+
+}
+.caja3{
+    width: 30%;/*Los valores se modifican de acuerdo a nuestra pantalla*/
+    height: 79%;
+    position: relative;
+    border: 3px solid black;
+    bottom: 12%;
+    right: 0.2%;
+}
+.caja4{
+	width: 30%;/*Los valores se modifican de acuerdo a nuestra pantalla*/
+    height: 79%;
+    position: relative;
+    border: 3px solid black;
+    left: 69.6%;
+    bottom: 92%;
+    
+}
+.caja5{
+	width: 39.2%;/*Los valores se modifican de acuerdo a nuestra pantalla*/
+    height: 79%;
+    position: relative;
+    border: 3px solid black;
+    left:30.1%;
+    bottom: 172%;
+}
+h2{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+a{
+	display: block;
+	outline: 1px solid green;
+
+}
